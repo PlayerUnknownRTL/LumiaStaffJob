@@ -1,0 +1,10 @@
+name: StaffJobLumia
+version: '2.1-LUM'
+main: me.lumia.staffjoblumia.StaffJobLumia
+api-version: '1.13'
+load: STARTUP
+authors: [LUMIA]
+description: "2.0 | Плагин на отображения сотрудников онлайн"
+commands:
+  ljob:
+    description: "Главная команда."
